@@ -2,9 +2,7 @@
 
 Welcome to Leafy.co, a digital platform connecting users with nature, developed for CAT201 Assignment 2!
 
-
-https://github.com/user-attachments/assets/228844e9-ffd9-42c3-8675-b8792b4bda86
-<img alt="Logo" align="right" src="public/MainPage.gif" width="20%" />
+[![Preview QuantumCharge Website GIF](public/MainPage.gif)]
 
 **Website Overview:**
 - **Company Info:** Discover Leafy.co, our mission, vision, and services.
