@@ -10,8 +10,8 @@ Welcome to Leafy.co, a digital platform connecting users with nature, developed 
 - **Responsive Design:** Optimized for all devices using modern web tools.
 
 ## Prerequisites
-- **Node.js:** Install the latest version from nodejs.org.
-- **React.js:** Ensure you have React.js installed by running npx create-react-app.
+- **Node.js**
+- **React.js** 
 
 ## How to Run the Project:
 1. **Clone the Repository:**
