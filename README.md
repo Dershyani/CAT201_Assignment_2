@@ -21,12 +21,19 @@ Welcome to Leafy, a digital platform connecting users with nature, developed for
    ```bash
    git clone https://github.com/Lithia22/CAT201_Assignment_2.git
    ```
-2. **Install Dependencies**
+
+2. **Navigate to the project directory**
+   
+   ```bash
+   cd CAT201_Assignment_2
+   ```
+   
+4. **Install Dependencies**
    ```bash
    npm install
    ```
 
-4. **To Run project**
+5. **To Run project**
    ```bash
    npm start
    ```
