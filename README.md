@@ -2,7 +2,7 @@
 
 Welcome to Leafy, a digital platform connecting users with nature, developed for CAT201 Assignment 2!
 
-<img src="public/Preview.gif" alt="Preview Leafy Website GIF" width="1200px" />
+<img src="Leafy/public/Preview.gif" alt="Preview Leafy Website GIF" width="1200px" />
 
 ## Website Overview:
 
