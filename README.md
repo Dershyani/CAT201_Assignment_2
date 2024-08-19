@@ -26,7 +26,7 @@ Welcome to Leafy, a digital platform connecting users with nature, developed for
    npm install
    ```
 
-4. **Development / To run project**
+4. **To Run project**
    ```bash
    npm start
    ```
