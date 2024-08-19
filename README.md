@@ -4,7 +4,8 @@ Welcome to Leafy.co, a digital platform connecting users with nature, developed 
 
 <img src="public/Preview.gif" alt="Preview Leafy.co Website GIF" width="1200px" />
 
-**Website Overview:**
+## Website Overview:
+
 - **Company Info:** Discover Leafy.co, our mission, vision, and services.
 - **Team Profiles:** Meet our team with photos and role descriptions.
 - **Responsive Design:** Optimized for all devices using modern web tools.
