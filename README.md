@@ -1,12 +1,12 @@
-# Leafy.co - Company Website
+# Leafy - Company Website
 
-Welcome to Leafy.co, a digital platform connecting users with nature, developed for CAT201 Assignment 2!
+Welcome to Leafy, a digital platform connecting users with nature, developed for CAT201 Assignment 2!
 
-<img src="public/Preview.gif" alt="Preview Leafy.co Website GIF" width="1200px" />
+<img src="public/Preview.gif" alt="Preview Leafy Website GIF" width="1200px" />
 
-## Features
+## Website Overview:
 
-- **Company Info:** Discover Leafy.co, our mission, vision, and services.
+- **Company Info:** Discover Leafy, our mission, vision, and services.
 - **Team Profiles:** Meet our team with photos and role descriptions.
 - **Responsive Design:** Optimized for all devices using modern web tools.
 
