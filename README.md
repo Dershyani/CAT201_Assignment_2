@@ -10,14 +10,16 @@ Welcome to Leafy.co, a digital platform connecting users with nature, developed 
 - **Responsive Design:** Optimized for all devices using modern web tools.
 
 ## Prerequisites
-- **Node.js**
-- **React.js** 
+
+- **Node.js:** Download from [nodejs.org](https://nodejs.org/).
+- **React.js:** Install via `npx create-react-app` or visit [React.js](https://reactjs.org/).
 
 ## How to Run the Project:
 1. **Clone the Repository:**
+   
    ```bash
    git clone https://github.com/Lithia22/CAT201_Assignment_2.git
-
+   ```
 
 ## Video Tutorial
 
