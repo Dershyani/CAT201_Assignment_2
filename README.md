@@ -21,4 +21,4 @@ Welcome to Leafy.co, a digital platform connecting users with nature, developed 
 
 [![Watch the video](https://github.com/user-attachments/assets/8110dbe9-12a4-4706-b9e5-e6ee61ecdbd9)](https://youtu.be/ykFg49JdEuA?si=QelIdrzMge_R55oi)
 
-Click on the image above to watch the tutorial on YouTube.
+Click on the image above to watch the website preview on YouTube.
