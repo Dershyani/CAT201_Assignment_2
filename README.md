@@ -22,12 +22,15 @@ Welcome to Leafy, a digital platform connecting users with nature, developed for
    git clone https://github.com/Lithia22/CAT201_Assignment_2.git
    ```
 2. **Install Dependencies**
-   Run `npm install`
+   ```bash
+   npm install
+   ```
 
-3. **Development / To run project**
-   Run `npm start`
+4. **Development / To run project**
+   ```bash
+   npm start
+   ```
 
-   
 ## Video Tutorial
 
 [![Watch the video](https://github.com/user-attachments/assets/8110dbe9-12a4-4706-b9e5-e6ee61ecdbd9)](https://youtu.be/ykFg49JdEuA?si=QelIdrzMge_R55oi)
