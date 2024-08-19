@@ -25,7 +25,7 @@ Welcome to Leafy, a digital platform connecting users with nature, developed for
 2. **Navigate to the project directory**
    
    ```bash
-   cd CAT201_Assignment_2\Leafy
+   cd Leafy
    ```
    
 4. **Install Dependencies**
