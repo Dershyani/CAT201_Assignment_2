@@ -2,10 +2,10 @@
 
 Welcome to Leafy.co, a digital platform connecting users with nature, developed for CAT201 Assignment 2!
 
-## Key Features:
-- **Company Information:** Learn about Leafy.co, our mission, vision, and the services we offer.
-- **Team Profiles:** Meet our team members, complete with photos and descriptions of their roles in the company.
-- **Responsive Design:** Built using modern web development tools to ensure an optimal experience across devices.
+**Website Overview:**
+- **Company Info:** Discover Leafy.co, our mission, vision, and services.
+- **Team Profiles:** Meet our team with photos and role descriptions.
+- **Responsive Design:** Optimized for all devices using modern web tools.
 
 ## Prerequisites
 - **Node.js:** Install the latest version from nodejs.org.
@@ -14,7 +14,7 @@ Welcome to Leafy.co, a digital platform connecting users with nature, developed 
 ## How to Run the Project:
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/leafy-co.git
+   git clone https://github.com/Lithia22/CAT201_Assignment_2.git
 
 
 ## Video Tutorial
