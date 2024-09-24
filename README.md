@@ -1,7 +1,5 @@
 # Leafy - Company Website
 
-Welcome to Leafy, a digital platform connecting users with nature, developed for CAT201 Assignment 2!
-
 <img src="Leafy/public/LeafyIntro.gif" alt="Preview Leafy Website GIF" width="1200px" />
 
 ## Website Overview:
