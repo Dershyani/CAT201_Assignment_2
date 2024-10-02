@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CAT201_Assignment_2/static/css/main.90cbd4c8.css",
+    "main.js": "/CAT201_Assignment_2/static/js/main.08b320e1.js",
+    "static/media/video.mp4": "/CAT201_Assignment_2/static/media/video.2f469c2203de0273ee23.mp4",
+    "static/media/timelapse.mp4": "/CAT201_Assignment_2/static/media/timelapse.0bb7ff36443501f9d6c8.mp4",
+    "static/media/Image.png": "/CAT201_Assignment_2/static/media/Image.959e601745922a2bf5b6.png",
+    "static/media/member5.png": "/CAT201_Assignment_2/static/media/member5.790b497a15e1e16a8b64.png",
+    "static/media/member3.png": "/CAT201_Assignment_2/static/media/member3.5f39a8f705964a839dd6.png",
+    "static/media/member4.png": "/CAT201_Assignment_2/static/media/member4.dc1dba38462c10a5e622.png",
+    "static/media/member1.png": "/CAT201_Assignment_2/static/media/member1.feef1e650e4dfd01c19d.png",
+    "static/media/member2.png": "/CAT201_Assignment_2/static/media/member2.1dded182929f625c8bfd.png",
+    "index.html": "/CAT201_Assignment_2/index.html",
+    "main.90cbd4c8.css.map": "/CAT201_Assignment_2/static/css/main.90cbd4c8.css.map",
+    "main.08b320e1.js.map": "/CAT201_Assignment_2/static/js/main.08b320e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90cbd4c8.css",
+    "static/js/main.08b320e1.js"
+  ]
+}
